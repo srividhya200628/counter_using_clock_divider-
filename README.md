@@ -146,6 +146,7 @@ module tb_counter;
 endmodule
 ```
 # Output Waveform:
+<img width="1600" height="893" alt="image" src="https://github.com/user-attachments/assets/c55352c8-ad64-4bb4-b667-e8313ad10fe9" />
 
 # Conclusion
 The 4-bit Up/Down Counter and MOD-10 Counter were successfully designed using Verilog HDL and verified through simulation in Vivado 2023.1. The clock divider was used to generate a slower clock suitable for FPGA implementation. The waveform analysis confirmed correct counting sequences in both up/down and MOD-10 modes.
